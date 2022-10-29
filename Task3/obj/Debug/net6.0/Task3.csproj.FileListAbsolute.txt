@@ -1,0 +1,15 @@
+/Users/yp/Desktop/seminar C# homework5/Task3/bin/Debug/net6.0/Task3
+/Users/yp/Desktop/seminar C# homework5/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/yp/Desktop/seminar C# homework5/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/yp/Desktop/seminar C# homework5/Task3/bin/Debug/net6.0/Task3.dll
+/Users/yp/Desktop/seminar C# homework5/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.dll
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/yp/Desktop/seminar C# homework5/Task3/obj/Debug/net6.0/ref/Task3.dll
